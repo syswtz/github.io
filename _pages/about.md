@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 I'm a third year undergraduate student from [School of BSU](https://www.bsu.edu.cn/). My research interest includes computer vision,  machine learning.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [taozhi wang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:tigong_wtz@bsu.edu.cn) / [Github](https://github.com/syswtz) 
  
